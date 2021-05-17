@@ -12,7 +12,7 @@
     "extends": "@fkm/semantic-release-config"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "debug": "^4.3.1",
     "rxjs": "^6.3.3"
   },
   "devDependencies": {
