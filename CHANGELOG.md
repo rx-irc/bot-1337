@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/rx-irc/bot-1337/compare/v2.0.0...v3.0.0) (2021-06-24)
+
+
+### Features
+
+* switch to new client ([8d5beac](https://github.com/rx-irc/bot-1337/commit/8d5beac4ec1a5b286be1ec820d053fa69630487d))
+
+
+### BREAKING CHANGES
+
+* This needs a different co-dependency.
+
 # [2.0.0](https://github.com/rx-irc/bot-1337/compare/v1.0.0...v2.0.0) (2021-05-17)
 
 
